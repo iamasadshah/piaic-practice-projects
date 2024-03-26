@@ -21,7 +21,7 @@ Here are the steps to set up a new Node.js project with the latest features, inc
 
 **Update tsconfig.json File:**
 
-Open tsconfig.json.
+**Open tsconfig.json.**
 
 Update the following properties:
 
@@ -42,9 +42,10 @@ Update the following properties:
 
 Update package.json File:
 
-Open package.json.
+**Open package.json.**
 
 Add the following line:
+
 "type": "module",
 
 These steps will configure your Node.js project to use the latest features and enable TypeScript with the specified settings.
