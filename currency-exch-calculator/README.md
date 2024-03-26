@@ -26,10 +26,20 @@ Open tsconfig.json.
 Update the following properties:
 
 "target": "ES2022",
+
+
 "module": "NodeNext",
+
+
 "rootDir": "./src",
+
+
 "moduleResolution": "NodeNext",
+
+
 "outDir": "./dist",
+
+
 Update package.json File:
 
 Open package.json.
