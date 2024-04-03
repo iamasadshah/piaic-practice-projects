@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
 
-let pin: number = 1234;
+let pin: number = 1122;
 let Balance = 10000;
 
 inquirer.prompt({
