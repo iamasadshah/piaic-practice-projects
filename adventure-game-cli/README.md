@@ -16,14 +16,14 @@ This simple game allows players to engage in a text-based adventure where they e
 1. Clone the repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/iamasadshah/piaic-practice-projects/tree/main/adventure-game-cli
 
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd text-based-adventure-game
+cd adventure-game-cli
 
 ```
 
